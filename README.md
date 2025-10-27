@@ -32,7 +32,7 @@ _Here you should put the URL of your final repository after finishing the given 
 
 1. Introduction to Repository Management:(https://github.com/aabduazim370-alt/skills-introduction-to-repository-management/issues/1)
 2. Release based workflow: (https://github.com/aabduazim370-alt/skills-release-based-workflow1)
-3. Useful Tips in Github:  _REPO LINK 3_
+3. Useful Tips in Github:  https://github.com/aabduazim370-alt/skills-connect-the-dots?tab=readme-ov-file
 4. Code with GitHub Codespaces: _REPO LINK 4_
 
 
